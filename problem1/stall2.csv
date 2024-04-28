@@ -1,0 +1,1001 @@
+company_types,preferences,intentions
+Production,Cutting Machine,Selling
+Service,Cutting Machine,advertisement
+Production,Cutting Machine,Selling
+Service,Boiler,advertisement
+Production,CNC,Selling
+Production,Sugar Machine,Selling
+Service,Boiler,advertisement
+Production,CNC,Selling
+Production,Boiler,advertisement
+Production,Sugar Machine,advertisement
+Service,Sugar Machine,Selling
+Service,CNC,Selling
+Service,Sugar Machine,Selling
+Service,Sugar Machine,Selling
+Service,Sugar Machine,Selling
+Production,Boiler,advertisement
+Production,Sugar Machine,Selling
+Service,Cutting Machine,Selling
+Service,Cutting Machine,Selling
+Service,Boiler,Selling
+Production,Sugar Machine,advertisement
+Production,Cutting Machine,Selling
+Service,CNC,advertisement
+Service,Cutting Machine,Selling
+Service,Boiler,Selling
+Production,CNC,Selling
+Production,Sugar Machine,advertisement
+Service,Cutting Machine,Selling
+Service,CNC,Selling
+Production,Cutting Machine,advertisement
+Service,Sugar Machine,advertisement
+Service,Boiler,Selling
+Production,CNC,Selling
+Service,Boiler,advertisement
+Production,Cutting Machine,Selling
+Service,Cutting Machine,advertisement
+Service,Sugar Machine,advertisement
+Production,Sugar Machine,advertisement
+Service,CNC,Selling
+Service,CNC,advertisement
+Service,CNC,Selling
+Service,CNC,advertisement
+Service,Cutting Machine,advertisement
+Production,Cutting Machine,advertisement
+Production,CNC,Selling
+Production,CNC,advertisement
+Service,Boiler,Selling
+Service,Boiler,advertisement
+Service,Sugar Machine,Selling
+Production,Boiler,Selling
+Production,Sugar Machine,Selling
+Service,CNC,Selling
+Production,Sugar Machine,Selling
+Service,Cutting Machine,advertisement
+Production,Cutting Machine,advertisement
+Service,Sugar Machine,advertisement
+Service,CNC,Selling
+Production,Boiler,Selling
+Service,Sugar Machine,Selling
+Production,Boiler,Selling
+Service,Boiler,Selling
+Service,CNC,advertisement
+Production,Cutting Machine,advertisement
+Service,Sugar Machine,advertisement
+Service,CNC,Selling
+Production,CNC,advertisement
+Production,Sugar Machine,advertisement
+Production,CNC,Selling
+Service,Boiler,advertisement
+Service,CNC,Selling
+Service,Cutting Machine,Selling
+Service,Sugar Machine,advertisement
+Service,Sugar Machine,advertisement
+Production,Cutting Machine,Selling
+Production,Boiler,advertisement
+Production,Boiler,advertisement
+Service,Boiler,advertisement
+Production,CNC,advertisement
+Production,Sugar Machine,advertisement
+Service,Boiler,Selling
+Production,Boiler,advertisement
+Production,Boiler,advertisement
+Service,Sugar Machine,advertisement
+Production,CNC,Selling
+Production,Sugar Machine,advertisement
+Service,Sugar Machine,advertisement
+Production,CNC,Selling
+Service,CNC,advertisement
+Service,Cutting Machine,advertisement
+Service,Boiler,advertisement
+Service,Boiler,Selling
+Service,Cutting Machine,advertisement
+Production,Sugar Machine,Selling
+Production,Boiler,advertisement
+Production,Boiler,Selling
+Production,Boiler,Selling
+Service,CNC,Selling
+Service,Cutting Machine,advertisement
+Production,CNC,Selling
+Production,Boiler,Selling
+Production,Sugar Machine,Selling
+Service,Sugar Machine,Selling
+Production,Cutting Machine,Selling
+Service,Sugar Machine,Selling
+Service,Cutting Machine,Selling
+Service,Sugar Machine,advertisement
+Production,Cutting Machine,Selling
+Production,Cutting Machine,advertisement
+Service,Cutting Machine,Selling
+Service,Cutting Machine,advertisement
+Production,CNC,Selling
+Service,Cutting Machine,Selling
+Production,CNC,Selling
+Production,Boiler,advertisement
+Production,Sugar Machine,Selling
+Production,Cutting Machine,advertisement
+Service,CNC,Selling
+Production,CNC,Selling
+Service,CNC,Selling
+Service,Cutting Machine,Selling
+Production,Cutting Machine,advertisement
+Production,Sugar Machine,advertisement
+Service,Sugar Machine,Selling
+Service,Sugar Machine,advertisement
+Production,Sugar Machine,Selling
+Service,CNC,advertisement
+Service,Sugar Machine,Selling
+Service,Cutting Machine,advertisement
+Production,Sugar Machine,Selling
+Production,Cutting Machine,advertisement
+Service,Boiler,advertisement
+Production,Cutting Machine,advertisement
+Service,Sugar Machine,Selling
+Production,Cutting Machine,Selling
+Service,CNC,Selling
+Service,Cutting Machine,advertisement
+Service,CNC,advertisement
+Production,Sugar Machine,advertisement
+Production,CNC,Selling
+Service,Boiler,advertisement
+Service,CNC,Selling
+Production,Cutting Machine,advertisement
+Service,Cutting Machine,advertisement
+Service,Cutting Machine,Selling
+Production,Cutting Machine,advertisement
+Production,Sugar Machine,Selling
+Production,Boiler,Selling
+Production,CNC,Selling
+Service,Cutting Machine,advertisement
+Service,Boiler,advertisement
+Service,Sugar Machine,Selling
+Production,CNC,advertisement
+Service,Boiler,advertisement
+Production,Sugar Machine,Selling
+Service,Cutting Machine,Selling
+Service,CNC,Selling
+Production,Boiler,advertisement
+Production,CNC,advertisement
+Service,Boiler,advertisement
+Production,Cutting Machine,Selling
+Service,Sugar Machine,Selling
+Service,Cutting Machine,advertisement
+Production,Cutting Machine,advertisement
+Service,Cutting Machine,advertisement
+Service,Sugar Machine,Selling
+Production,Cutting Machine,advertisement
+Production,Sugar Machine,advertisement
+Production,CNC,advertisement
+Production,Boiler,Selling
+Service,Sugar Machine,Selling
+Production,Boiler,Selling
+Production,Boiler,advertisement
+Service,CNC,Selling
+Production,CNC,advertisement
+Production,Sugar Machine,advertisement
+Production,Boiler,advertisement
+Service,Boiler,advertisement
+Service,Sugar Machine,advertisement
+Service,Cutting Machine,Selling
+Service,Cutting Machine,Selling
+Production,Sugar Machine,advertisement
+Service,CNC,Selling
+Service,Sugar Machine,advertisement
+Production,Boiler,advertisement
+Service,CNC,Selling
+Production,Boiler,Selling
+Production,Cutting Machine,advertisement
+Production,CNC,Selling
+Production,Sugar Machine,advertisement
+Production,CNC,advertisement
+Service,CNC,advertisement
+Service,Sugar Machine,Selling
+Service,Boiler,advertisement
+Production,Boiler,advertisement
+Production,Cutting Machine,Selling
+Service,Cutting Machine,advertisement
+Production,Cutting Machine,advertisement
+Service,Boiler,Selling
+Production,CNC,Selling
+Production,Boiler,Selling
+Service,Cutting Machine,Selling
+Service,Boiler,Selling
+Service,Sugar Machine,advertisement
+Service,Sugar Machine,Selling
+Service,Cutting Machine,Selling
+Production,Boiler,advertisement
+Production,Boiler,advertisement
+Service,Boiler,advertisement
+Production,Cutting Machine,Selling
+Service,Cutting Machine,Selling
+Production,Boiler,advertisement
+Service,Sugar Machine,advertisement
+Production,Boiler,advertisement
+Service,Cutting Machine,advertisement
+Service,Boiler,advertisement
+Production,Cutting Machine,advertisement
+Production,Cutting Machine,Selling
+Production,Boiler,Selling
+Service,Boiler,Selling
+Service,Boiler,Selling
+Service,CNC,Selling
+Production,Cutting Machine,Selling
+Service,CNC,Selling
+Service,Cutting Machine,advertisement
+Production,Sugar Machine,Selling
+Service,Cutting Machine,advertisement
+Service,Boiler,advertisement
+Production,Boiler,advertisement
+Production,Sugar Machine,Selling
+Service,Sugar Machine,advertisement
+Service,Sugar Machine,advertisement
+Production,Sugar Machine,advertisement
+Production,Sugar Machine,Selling
+Service,Boiler,Selling
+Service,Boiler,Selling
+Service,CNC,Selling
+Service,Cutting Machine,Selling
+Service,Boiler,advertisement
+Production,Cutting Machine,Selling
+Service,Boiler,advertisement
+Production,CNC,Selling
+Service,CNC,Selling
+Production,Boiler,Selling
+Production,Sugar Machine,Selling
+Service,Cutting Machine,Selling
+Service,Sugar Machine,advertisement
+Service,Cutting Machine,advertisement
+Production,CNC,advertisement
+Service,Cutting Machine,advertisement
+Production,Cutting Machine,Selling
+Production,Sugar Machine,Selling
+Production,Boiler,advertisement
+Service,Cutting Machine,Selling
+Service,Sugar Machine,advertisement
+Service,CNC,Selling
+Production,Sugar Machine,advertisement
+Service,Boiler,advertisement
+Service,CNC,advertisement
+Production,CNC,advertisement
+Service,Boiler,advertisement
+Production,Boiler,Selling
+Service,CNC,advertisement
+Production,CNC,advertisement
+Production,CNC,Selling
+Production,CNC,Selling
+Service,Sugar Machine,advertisement
+Service,Boiler,advertisement
+Production,Cutting Machine,advertisement
+Service,Boiler,advertisement
+Production,CNC,Selling
+Service,Cutting Machine,advertisement
+Service,Cutting Machine,advertisement
+Service,Cutting Machine,advertisement
+Production,Sugar Machine,advertisement
+Service,Boiler,advertisement
+Service,CNC,Selling
+Service,CNC,advertisement
+Service,Sugar Machine,Selling
+Service,CNC,Selling
+Service,CNC,Selling
+Service,Boiler,Selling
+Production,Sugar Machine,advertisement
+Production,Sugar Machine,Selling
+Service,Cutting Machine,advertisement
+Production,Sugar Machine,Selling
+Service,Sugar Machine,advertisement
+Service,Cutting Machine,Selling
+Service,Boiler,Selling
+Production,Cutting Machine,Selling
+Production,Cutting Machine,advertisement
+Service,Boiler,advertisement
+Service,Boiler,advertisement
+Service,Cutting Machine,advertisement
+Service,Sugar Machine,advertisement
+Service,Boiler,advertisement
+Production,CNC,advertisement
+Production,CNC,advertisement
+Service,Sugar Machine,advertisement
+Production,Cutting Machine,Selling
+Production,Cutting Machine,Selling
+Production,CNC,advertisement
+Service,Cutting Machine,advertisement
+Production,Cutting Machine,Selling
+Production,Sugar Machine,Selling
+Production,Boiler,Selling
+Production,Sugar Machine,advertisement
+Production,Sugar Machine,advertisement
+Service,CNC,Selling
+Service,Sugar Machine,advertisement
+Service,CNC,Selling
+Production,CNC,advertisement
+Production,CNC,Selling
+Production,Cutting Machine,Selling
+Production,Cutting Machine,advertisement
+Service,Cutting Machine,advertisement
+Production,Boiler,advertisement
+Service,CNC,Selling
+Production,Cutting Machine,advertisement
+Service,Boiler,Selling
+Production,CNC,advertisement
+Production,Boiler,advertisement
+Production,Boiler,Selling
+Service,Cutting Machine,advertisement
+Service,Cutting Machine,Selling
+Service,Sugar Machine,advertisement
+Production,Cutting Machine,Selling
+Service,CNC,advertisement
+Production,Cutting Machine,advertisement
+Service,Cutting Machine,Selling
+Service,Cutting Machine,advertisement
+Production,Sugar Machine,advertisement
+Production,Cutting Machine,advertisement
+Production,Cutting Machine,advertisement
+Service,Boiler,advertisement
+Service,Boiler,Selling
+Production,CNC,Selling
+Service,Sugar Machine,advertisement
+Production,Cutting Machine,Selling
+Service,Cutting Machine,Selling
+Service,Cutting Machine,advertisement
+Service,Cutting Machine,Selling
+Service,CNC,advertisement
+Service,Boiler,advertisement
+Production,Boiler,advertisement
+Service,Boiler,advertisement
+Service,CNC,Selling
+Production,Boiler,advertisement
+Service,Boiler,advertisement
+Service,CNC,Selling
+Production,Sugar Machine,advertisement
+Service,Cutting Machine,Selling
+Production,CNC,advertisement
+Service,Sugar Machine,advertisement
+Production,CNC,Selling
+Service,Cutting Machine,Selling
+Production,Cutting Machine,advertisement
+Service,Cutting Machine,advertisement
+Service,Sugar Machine,Selling
+Production,Cutting Machine,advertisement
+Production,Sugar Machine,Selling
+Service,Cutting Machine,advertisement
+Service,CNC,Selling
+Service,Cutting Machine,advertisement
+Service,Cutting Machine,advertisement
+Service,CNC,advertisement
+Service,Sugar Machine,Selling
+Service,Sugar Machine,Selling
+Production,Sugar Machine,Selling
+Production,Cutting Machine,advertisement
+Production,CNC,advertisement
+Service,Boiler,advertisement
+Service,Boiler,Selling
+Service,Sugar Machine,advertisement
+Service,CNC,Selling
+Service,Sugar Machine,advertisement
+Service,Boiler,advertisement
+Service,Cutting Machine,advertisement
+Service,Sugar Machine,Selling
+Production,Sugar Machine,Selling
+Service,Sugar Machine,advertisement
+Production,Sugar Machine,Selling
+Service,Sugar Machine,advertisement
+Production,Cutting Machine,Selling
+Production,Cutting Machine,Selling
+Production,Cutting Machine,advertisement
+Production,CNC,Selling
+Service,Boiler,advertisement
+Service,Boiler,Selling
+Service,Boiler,advertisement
+Production,Cutting Machine,advertisement
+Production,CNC,advertisement
+Service,Cutting Machine,Selling
+Production,Boiler,advertisement
+Service,CNC,Selling
+Service,CNC,Selling
+Service,Cutting Machine,Selling
+Service,Sugar Machine,advertisement
+Service,Sugar Machine,Selling
+Production,Sugar Machine,Selling
+Service,Sugar Machine,Selling
+Production,Boiler,advertisement
+Service,CNC,advertisement
+Service,CNC,Selling
+Production,CNC,advertisement
+Production,Cutting Machine,Selling
+Production,Boiler,advertisement
+Production,CNC,advertisement
+Production,Boiler,advertisement
+Service,CNC,Selling
+Production,CNC,Selling
+Service,Sugar Machine,Selling
+Service,Cutting Machine,Selling
+Service,Sugar Machine,Selling
+Service,Boiler,Selling
+Service,Cutting Machine,Selling
+Production,Sugar Machine,Selling
+Production,CNC,Selling
+Production,CNC,Selling
+Service,CNC,advertisement
+Service,Boiler,Selling
+Service,Cutting Machine,Selling
+Production,Cutting Machine,Selling
+Production,Cutting Machine,Selling
+Production,Boiler,advertisement
+Production,Cutting Machine,Selling
+Production,Sugar Machine,advertisement
+Service,CNC,advertisement
+Production,CNC,advertisement
+Service,Cutting Machine,Selling
+Service,CNC,advertisement
+Service,CNC,advertisement
+Service,Cutting Machine,advertisement
+Production,Boiler,Selling
+Service,Cutting Machine,Selling
+Service,Boiler,Selling
+Production,Cutting Machine,Selling
+Service,Sugar Machine,Selling
+Service,Cutting Machine,Selling
+Service,Boiler,advertisement
+Service,Boiler,advertisement
+Service,CNC,advertisement
+Production,CNC,advertisement
+Service,CNC,Selling
+Service,Boiler,Selling
+Production,Boiler,Selling
+Service,CNC,advertisement
+Service,Sugar Machine,advertisement
+Production,Sugar Machine,advertisement
+Production,CNC,Selling
+Production,CNC,advertisement
+Service,Cutting Machine,advertisement
+Production,CNC,Selling
+Service,Cutting Machine,advertisement
+Production,Sugar Machine,advertisement
+Production,Cutting Machine,Selling
+Service,CNC,advertisement
+Production,CNC,Selling
+Production,CNC,Selling
+Production,Boiler,advertisement
+Service,Sugar Machine,Selling
+Service,CNC,advertisement
+Service,Boiler,advertisement
+Service,Cutting Machine,Selling
+Service,CNC,Selling
+Service,CNC,Selling
+Production,Cutting Machine,Selling
+Service,Boiler,advertisement
+Service,CNC,advertisement
+Production,Sugar Machine,advertisement
+Production,Boiler,Selling
+Production,Boiler,advertisement
+Service,Boiler,advertisement
+Production,Sugar Machine,Selling
+Service,Sugar Machine,Selling
+Service,CNC,Selling
+Service,Cutting Machine,advertisement
+Production,Cutting Machine,Selling
+Service,Sugar Machine,advertisement
+Service,Boiler,Selling
+Service,CNC,advertisement
+Service,Sugar Machine,advertisement
+Service,Cutting Machine,advertisement
+Service,CNC,advertisement
+Production,Cutting Machine,advertisement
+Service,CNC,Selling
+Service,Cutting Machine,Selling
+Service,CNC,advertisement
+Production,Cutting Machine,Selling
+Service,Sugar Machine,advertisement
+Service,Boiler,advertisement
+Service,Sugar Machine,advertisement
+Service,CNC,advertisement
+Service,Boiler,advertisement
+Production,Boiler,Selling
+Production,CNC,Selling
+Service,CNC,advertisement
+Service,Cutting Machine,Selling
+Service,Cutting Machine,Selling
+Service,Boiler,Selling
+Service,Cutting Machine,advertisement
+Service,Boiler,Selling
+Production,Cutting Machine,Selling
+Production,Boiler,Selling
+Service,Boiler,advertisement
+Service,Sugar Machine,advertisement
+Service,Cutting Machine,Selling
+Service,Sugar Machine,advertisement
+Service,Sugar Machine,Selling
+Production,CNC,Selling
+Service,Sugar Machine,Selling
+Production,Boiler,Selling
+Service,Cutting Machine,advertisement
+Production,Sugar Machine,advertisement
+Service,Sugar Machine,Selling
+Service,Cutting Machine,Selling
+Production,Sugar Machine,Selling
+Production,Boiler,advertisement
+Production,Cutting Machine,advertisement
+Production,CNC,Selling
+Service,Sugar Machine,Selling
+Production,Cutting Machine,advertisement
+Production,CNC,advertisement
+Production,Boiler,advertisement
+Service,Cutting Machine,Selling
+Production,Boiler,advertisement
+Service,Sugar Machine,advertisement
+Production,Sugar Machine,advertisement
+Production,Sugar Machine,Selling
+Service,Sugar Machine,advertisement
+Production,Sugar Machine,advertisement
+Service,Sugar Machine,advertisement
+Production,Sugar Machine,advertisement
+Service,Sugar Machine,Selling
+Production,CNC,Selling
+Service,Cutting Machine,advertisement
+Production,CNC,Selling
+Production,CNC,advertisement
+Production,Sugar Machine,Selling
+Service,Sugar Machine,Selling
+Service,Boiler,advertisement
+Production,CNC,Selling
+Service,Boiler,Selling
+Service,CNC,advertisement
+Production,Boiler,advertisement
+Service,CNC,advertisement
+Service,Boiler,advertisement
+Service,Sugar Machine,Selling
+Service,Cutting Machine,advertisement
+Production,Boiler,advertisement
+Production,CNC,Selling
+Service,CNC,advertisement
+Service,CNC,advertisement
+Service,Boiler,advertisement
+Production,CNC,Selling
+Service,Boiler,advertisement
+Production,Cutting Machine,Selling
+Service,Sugar Machine,advertisement
+Production,Sugar Machine,Selling
+Production,CNC,advertisement
+Production,Cutting Machine,Selling
+Production,Boiler,Selling
+Production,Sugar Machine,Selling
+Production,CNC,advertisement
+Production,Boiler,advertisement
+Service,Boiler,Selling
+Service,Boiler,advertisement
+Service,Sugar Machine,advertisement
+Production,Boiler,advertisement
+Service,Cutting Machine,Selling
+Service,Sugar Machine,Selling
+Production,Sugar Machine,Selling
+Production,Boiler,Selling
+Service,Cutting Machine,Selling
+Production,Sugar Machine,advertisement
+Production,CNC,Selling
+Service,CNC,Selling
+Production,Sugar Machine,Selling
+Service,Cutting Machine,advertisement
+Production,CNC,advertisement
+Production,Cutting Machine,advertisement
+Service,Cutting Machine,Selling
+Production,Cutting Machine,advertisement
+Service,Cutting Machine,Selling
+Production,CNC,advertisement
+Service,Sugar Machine,Selling
+Service,Sugar Machine,advertisement
+Service,CNC,Selling
+Service,CNC,advertisement
+Production,Boiler,advertisement
+Production,Cutting Machine,Selling
+Service,Sugar Machine,advertisement
+Production,Boiler,Selling
+Service,Cutting Machine,advertisement
+Service,CNC,advertisement
+Production,CNC,advertisement
+Production,CNC,advertisement
+Production,Sugar Machine,Selling
+Production,Cutting Machine,advertisement
+Production,Cutting Machine,advertisement
+Production,CNC,advertisement
+Production,Cutting Machine,Selling
+Service,Boiler,advertisement
+Production,CNC,advertisement
+Production,Cutting Machine,advertisement
+Service,Sugar Machine,advertisement
+Production,Cutting Machine,advertisement
+Production,Cutting Machine,Selling
+Service,Sugar Machine,advertisement
+Service,CNC,Selling
+Production,Sugar Machine,Selling
+Production,Sugar Machine,Selling
+Service,CNC,advertisement
+Production,Boiler,advertisement
+Production,Sugar Machine,advertisement
+Production,Boiler,Selling
+Production,Cutting Machine,advertisement
+Production,Cutting Machine,advertisement
+Production,Boiler,advertisement
+Production,Boiler,Selling
+Production,Sugar Machine,Selling
+Service,CNC,advertisement
+Service,Sugar Machine,advertisement
+Service,Boiler,advertisement
+Service,CNC,Selling
+Production,Cutting Machine,Selling
+Service,CNC,advertisement
+Production,Sugar Machine,advertisement
+Service,Sugar Machine,Selling
+Production,Boiler,Selling
+Service,Cutting Machine,Selling
+Service,Cutting Machine,advertisement
+Service,CNC,Selling
+Service,CNC,Selling
+Service,Boiler,advertisement
+Service,Sugar Machine,Selling
+Production,Cutting Machine,advertisement
+Production,CNC,Selling
+Service,CNC,advertisement
+Production,Cutting Machine,advertisement
+Service,Boiler,advertisement
+Service,Sugar Machine,advertisement
+Service,CNC,Selling
+Service,CNC,advertisement
+Production,Boiler,advertisement
+Service,Cutting Machine,Selling
+Production,Boiler,Selling
+Production,CNC,Selling
+Production,Cutting Machine,Selling
+Service,Cutting Machine,advertisement
+Service,CNC,advertisement
+Production,Sugar Machine,Selling
+Production,Boiler,advertisement
+Production,Boiler,Selling
+Production,CNC,advertisement
+Service,CNC,advertisement
+Service,Cutting Machine,Selling
+Production,Sugar Machine,Selling
+Production,CNC,Selling
+Service,Boiler,advertisement
+Service,Cutting Machine,advertisement
+Production,Boiler,Selling
+Production,Cutting Machine,advertisement
+Production,Boiler,advertisement
+Service,Sugar Machine,advertisement
+Production,Cutting Machine,advertisement
+Production,CNC,advertisement
+Production,Boiler,Selling
+Production,Sugar Machine,Selling
+Production,Cutting Machine,Selling
+Production,Boiler,Selling
+Service,Cutting Machine,advertisement
+Service,Cutting Machine,Selling
+Production,Sugar Machine,Selling
+Production,Boiler,advertisement
+Service,CNC,advertisement
+Production,Cutting Machine,Selling
+Service,Sugar Machine,Selling
+Service,CNC,advertisement
+Production,Boiler,advertisement
+Production,Sugar Machine,advertisement
+Production,Cutting Machine,advertisement
+Production,Sugar Machine,advertisement
+Production,Boiler,advertisement
+Service,Sugar Machine,Selling
+Production,Boiler,Selling
+Service,Cutting Machine,advertisement
+Production,CNC,Selling
+Service,CNC,advertisement
+Service,Sugar Machine,Selling
+Production,CNC,advertisement
+Production,Cutting Machine,advertisement
+Production,Cutting Machine,advertisement
+Production,Sugar Machine,advertisement
+Production,Boiler,Selling
+Production,Boiler,Selling
+Service,Cutting Machine,Selling
+Production,CNC,Selling
+Production,Cutting Machine,advertisement
+Production,Sugar Machine,advertisement
+Service,Cutting Machine,advertisement
+Production,CNC,advertisement
+Production,CNC,advertisement
+Service,Cutting Machine,Selling
+Service,CNC,advertisement
+Service,Sugar Machine,advertisement
+Service,Sugar Machine,Selling
+Service,Boiler,advertisement
+Service,CNC,advertisement
+Service,Sugar Machine,advertisement
+Production,Cutting Machine,Selling
+Service,CNC,Selling
+Service,CNC,Selling
+Service,Cutting Machine,Selling
+Service,Cutting Machine,Selling
+Production,Boiler,Selling
+Service,Sugar Machine,Selling
+Service,Boiler,advertisement
+Service,Cutting Machine,Selling
+Production,Cutting Machine,Selling
+Service,Boiler,advertisement
+Service,CNC,Selling
+Production,Cutting Machine,Selling
+Production,Cutting Machine,advertisement
+Production,Boiler,Selling
+Service,Boiler,Selling
+Production,CNC,advertisement
+Service,Sugar Machine,Selling
+Service,Cutting Machine,Selling
+Production,CNC,advertisement
+Production,CNC,Selling
+Production,Sugar Machine,Selling
+Production,Cutting Machine,Selling
+Service,Sugar Machine,Selling
+Production,Boiler,advertisement
+Service,Sugar Machine,Selling
+Production,Sugar Machine,advertisement
+Service,Boiler,advertisement
+Production,Sugar Machine,Selling
+Production,Boiler,Selling
+Production,Sugar Machine,advertisement
+Service,CNC,Selling
+Production,Sugar Machine,advertisement
+Service,Boiler,Selling
+Service,CNC,advertisement
+Production,Cutting Machine,Selling
+Service,Sugar Machine,advertisement
+Production,Sugar Machine,advertisement
+Production,CNC,advertisement
+Production,Sugar Machine,advertisement
+Service,CNC,Selling
+Service,Boiler,advertisement
+Production,Cutting Machine,advertisement
+Service,CNC,advertisement
+Production,CNC,Selling
+Service,Boiler,Selling
+Production,CNC,Selling
+Service,Sugar Machine,Selling
+Service,Cutting Machine,Selling
+Service,Boiler,Selling
+Production,CNC,Selling
+Production,CNC,Selling
+Service,CNC,advertisement
+Service,Cutting Machine,advertisement
+Service,Boiler,Selling
+Service,Sugar Machine,Selling
+Production,CNC,advertisement
+Service,CNC,Selling
+Production,Cutting Machine,Selling
+Production,Sugar Machine,advertisement
+Service,Sugar Machine,advertisement
+Service,CNC,Selling
+Service,Boiler,Selling
+Service,Cutting Machine,Selling
+Production,Sugar Machine,Selling
+Service,Cutting Machine,Selling
+Production,Cutting Machine,Selling
+Service,Cutting Machine,Selling
+Production,Cutting Machine,Selling
+Production,Boiler,advertisement
+Service,Sugar Machine,Selling
+Production,Sugar Machine,advertisement
+Production,Cutting Machine,advertisement
+Service,Cutting Machine,advertisement
+Production,Sugar Machine,advertisement
+Service,Sugar Machine,advertisement
+Production,CNC,Selling
+Production,Boiler,advertisement
+Production,Sugar Machine,advertisement
+Production,Sugar Machine,advertisement
+Production,Boiler,advertisement
+Service,Boiler,advertisement
+Service,CNC,Selling
+Production,Sugar Machine,advertisement
+Production,CNC,advertisement
+Production,Cutting Machine,Selling
+Production,Sugar Machine,Selling
+Service,Cutting Machine,Selling
+Service,Boiler,Selling
+Service,Cutting Machine,Selling
+Service,CNC,advertisement
+Service,Cutting Machine,advertisement
+Service,Sugar Machine,Selling
+Service,Cutting Machine,advertisement
+Production,Boiler,Selling
+Service,Sugar Machine,Selling
+Production,Sugar Machine,Selling
+Production,Sugar Machine,advertisement
+Service,Boiler,Selling
+Production,Sugar Machine,Selling
+Production,Boiler,Selling
+Service,Sugar Machine,Selling
+Production,Cutting Machine,advertisement
+Service,Cutting Machine,advertisement
+Production,Cutting Machine,Selling
+Service,Boiler,advertisement
+Service,Boiler,Selling
+Service,Sugar Machine,advertisement
+Production,Cutting Machine,Selling
+Service,Boiler,advertisement
+Service,CNC,advertisement
+Service,CNC,advertisement
+Service,CNC,Selling
+Production,Cutting Machine,advertisement
+Service,Boiler,Selling
+Service,Cutting Machine,Selling
+Service,Cutting Machine,advertisement
+Production,Cutting Machine,advertisement
+Production,Boiler,Selling
+Production,Sugar Machine,advertisement
+Production,CNC,advertisement
+Production,Sugar Machine,Selling
+Production,Boiler,advertisement
+Production,Cutting Machine,advertisement
+Production,Cutting Machine,advertisement
+Service,Boiler,advertisement
+Service,Cutting Machine,advertisement
+Production,Boiler,advertisement
+Production,Sugar Machine,advertisement
+Service,Boiler,Selling
+Production,Sugar Machine,Selling
+Production,CNC,Selling
+Production,CNC,advertisement
+Production,Cutting Machine,advertisement
+Service,Sugar Machine,advertisement
+Production,Cutting Machine,advertisement
+Service,Boiler,advertisement
+Production,Cutting Machine,Selling
+Service,CNC,Selling
+Production,Sugar Machine,Selling
+Service,Cutting Machine,advertisement
+Production,Sugar Machine,Selling
+Production,Cutting Machine,advertisement
+Service,CNC,advertisement
+Production,CNC,Selling
+Production,CNC,advertisement
+Production,CNC,Selling
+Production,Boiler,advertisement
+Service,Boiler,Selling
+Production,Boiler,advertisement
+Production,Cutting Machine,Selling
+Production,Cutting Machine,advertisement
+Production,CNC,advertisement
+Service,CNC,advertisement
+Production,Sugar Machine,advertisement
+Service,CNC,advertisement
+Production,CNC,advertisement
+Service,Cutting Machine,Selling
+Production,Boiler,advertisement
+Production,Boiler,advertisement
+Production,Boiler,Selling
+Service,Cutting Machine,advertisement
+Production,Cutting Machine,Selling
+Service,Sugar Machine,advertisement
+Service,CNC,Selling
+Production,Boiler,advertisement
+Service,Cutting Machine,Selling
+Production,Boiler,Selling
+Production,Cutting Machine,advertisement
+Service,Sugar Machine,advertisement
+Service,CNC,Selling
+Production,Sugar Machine,Selling
+Production,CNC,Selling
+Production,Boiler,advertisement
+Service,Cutting Machine,advertisement
+Production,Boiler,advertisement
+Service,Cutting Machine,Selling
+Production,Cutting Machine,Selling
+Service,Boiler,Selling
+Service,Cutting Machine,advertisement
+Production,Cutting Machine,advertisement
+Production,Sugar Machine,Selling
+Service,CNC,Selling
+Service,Sugar Machine,advertisement
+Production,Sugar Machine,Selling
+Service,CNC,advertisement
+Service,Boiler,advertisement
+Service,CNC,Selling
+Production,CNC,advertisement
+Production,Boiler,advertisement
+Production,Boiler,advertisement
+Production,Sugar Machine,advertisement
+Production,Cutting Machine,Selling
+Production,Boiler,advertisement
+Production,CNC,advertisement
+Service,Sugar Machine,Selling
+Production,CNC,Selling
+Production,Sugar Machine,Selling
+Production,Cutting Machine,Selling
+Service,CNC,Selling
+Service,CNC,Selling
+Service,CNC,advertisement
+Service,CNC,Selling
+Production,CNC,Selling
+Service,CNC,advertisement
+Production,CNC,Selling
+Production,Cutting Machine,advertisement
+Service,Sugar Machine,Selling
+Production,Sugar Machine,advertisement
+Production,Cutting Machine,Selling
+Service,CNC,Selling
+Service,Sugar Machine,Selling
+Service,Sugar Machine,advertisement
+Service,Boiler,Selling
+Service,CNC,advertisement
+Service,Cutting Machine,advertisement
+Service,Cutting Machine,advertisement
+Service,Boiler,Selling
+Production,Boiler,advertisement
+Service,Boiler,Selling
+Service,Cutting Machine,advertisement
+Production,CNC,Selling
+Production,Sugar Machine,advertisement
+Production,Sugar Machine,Selling
+Production,Cutting Machine,Selling
+Service,Sugar Machine,advertisement
+Production,Boiler,advertisement
+Production,Boiler,advertisement
+Production,Boiler,advertisement
+Production,Sugar Machine,Selling
+Service,CNC,advertisement
+Production,Sugar Machine,Selling
+Service,Cutting Machine,advertisement
+Production,Cutting Machine,advertisement
+Service,Sugar Machine,Selling
+Production,Cutting Machine,Selling
+Service,CNC,advertisement
+Service,Sugar Machine,Selling
+Production,CNC,advertisement
+Service,Cutting Machine,Selling
+Service,CNC,advertisement
+Production,Cutting Machine,Selling
+Production,CNC,Selling
+Service,Cutting Machine,Selling
+Service,Cutting Machine,Selling
+Production,CNC,Selling
+Service,Cutting Machine,Selling
+Service,Sugar Machine,Selling
+Production,Sugar Machine,Selling
+Production,CNC,advertisement
+Production,CNC,advertisement
+Service,CNC,advertisement
+Production,Boiler,advertisement
+Service,Boiler,Selling
+Service,Boiler,Selling
+Service,Cutting Machine,advertisement
+Production,Cutting Machine,advertisement
+Production,CNC,Selling
+Service,CNC,Selling
+Production,Boiler,Selling
+Production,Boiler,advertisement
+Service,Sugar Machine,advertisement
+Production,Sugar Machine,advertisement
+Production,Boiler,advertisement
+Production,CNC,advertisement
+Production,Sugar Machine,advertisement
+Production,Sugar Machine,Selling
+Service,Sugar Machine,Selling
+Production,Cutting Machine,Selling
+Service,Cutting Machine,Selling
+Service,Boiler,advertisement
+Production,Cutting Machine,advertisement
+Service,CNC,Selling
+Service,Boiler,advertisement
+Service,CNC,Selling
+Production,Cutting Machine,Selling
+Service,Sugar Machine,Selling
+Service,Boiler,Selling
+Service,Cutting Machine,Selling
+Service,Boiler,Selling
+Production,Sugar Machine,advertisement
+Service,Sugar Machine,advertisement
+Service,CNC,advertisement
+Production,Boiler,advertisement
+Service,Cutting Machine,advertisement
+Production,Boiler,Selling
+Production,CNC,Selling
+Service,Sugar Machine,advertisement
+Service,Cutting Machine,advertisement
+Production,CNC,Selling
+Service,Cutting Machine,advertisement
